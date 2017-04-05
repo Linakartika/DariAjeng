@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
             Scanner show = new Scanner(System.in);
+            System.out.print("ini update an dari LINA ");
             System.out.print("Masukan Jumlah Deret Fibonacci : ");
             int n = show.nextInt();
             long fib[] = new long[n];
